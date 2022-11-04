@@ -1,0 +1,13 @@
+name: Diving
+type: theme
+description: 'A theme for my exercise project'
+core_version_requirement: ^9
+libraries:
+  - diving/global-styling
+base theme: false
+regions:
+  header: 'Header'
+  content: 'Content'
+  sidebar: 'Sidebar'
+  footer_top: 'Footer Top'
+  footer_bottom: 'Footer Bottom'
